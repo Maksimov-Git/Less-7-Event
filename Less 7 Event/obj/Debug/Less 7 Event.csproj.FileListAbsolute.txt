@@ -1,0 +1,7 @@
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\bin\Debug\Less 7 Event.exe.config
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\bin\Debug\Less 7 Event.exe
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\bin\Debug\Less 7 Event.pdb
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\obj\Debug\Less 7 Event.csprojAssemblyReference.cache
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\obj\Debug\Less 7 Event.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\obj\Debug\Less 7 Event.exe
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event\obj\Debug\Less 7 Event.pdb

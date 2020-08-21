@@ -1,0 +1,2 @@
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event 1\obj\Debug\Less 7 Event 1.csprojAssemblyReference.cache
+F:\обучение С#\программирование в информационных системах\Less 7 Event\Less 7 Event 1\obj\Debug\Less 7 Event 1.csproj.CoreCompileInputs.cache
