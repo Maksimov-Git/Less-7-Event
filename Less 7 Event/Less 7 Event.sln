@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 7 Event", "Less 7 Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 7 Event 1", "..\Less 7 Event 1\Less 7 Event 1.csproj", "{EE30D9C0-7A20-4F9E-86C6-2ABD5E78427D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 7 Event 2", "..\Less 7 Event 2\Less 7 Event 2.csproj", "{262C9C2C-9DC8-4BD7-8EFA-1E13AC0064ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EE30D9C0-7A20-4F9E-86C6-2ABD5E78427D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE30D9C0-7A20-4F9E-86C6-2ABD5E78427D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE30D9C0-7A20-4F9E-86C6-2ABD5E78427D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262C9C2C-9DC8-4BD7-8EFA-1E13AC0064ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262C9C2C-9DC8-4BD7-8EFA-1E13AC0064ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262C9C2C-9DC8-4BD7-8EFA-1E13AC0064ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262C9C2C-9DC8-4BD7-8EFA-1E13AC0064ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
