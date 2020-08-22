@@ -35,7 +35,7 @@ namespace Less_7_Event
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass();
-
+            
             myClass.myEvent += new EventDelegate(Handler1);
             // создаем экземпляр класса EventDelegate и сообщаем с ним обработчик  Handler1 и подписываем 
             // обработчик на событие  myEvent
