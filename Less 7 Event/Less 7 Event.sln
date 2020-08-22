@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 7 WF", "..\Less 7 WF\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 7 WF 1", "..\Less 7 WF 1\Less 7 WF 1.csproj", "{C4E8E9D6-F662-41B2-9B16-67C6C1BCCA5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less 7 WF 2", "..\Less 7 WF 2\Less 7 WF 2.csproj", "{3048AA8D-1FBF-4C81-8D84-25082A22F0DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C4E8E9D6-F662-41B2-9B16-67C6C1BCCA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4E8E9D6-F662-41B2-9B16-67C6C1BCCA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4E8E9D6-F662-41B2-9B16-67C6C1BCCA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3048AA8D-1FBF-4C81-8D84-25082A22F0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3048AA8D-1FBF-4C81-8D84-25082A22F0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3048AA8D-1FBF-4C81-8D84-25082A22F0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3048AA8D-1FBF-4C81-8D84-25082A22F0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

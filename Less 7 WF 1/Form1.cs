@@ -21,7 +21,7 @@ namespace Less_7_WF_1
         {
             
             Button  btn = (Button)sender;
-            this.textBox1.Text += int.Parse(btn.Text);
+            this.textBox1.Text += btn.Text;
         }
 
 
@@ -35,7 +35,7 @@ namespace Less_7_WF_1
                 button.Top = 10;
                 button.Name = "Button " + i.ToString();
                 this.Controls.Add(button);
-                button.Click += Bu_lic;
+                button.Click += new EventHandler( this.Bu_lic);
 
             }
 

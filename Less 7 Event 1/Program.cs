@@ -37,12 +37,12 @@ namespace Less_7_Event_1
     {
         static private void Handler1( string S) // handler - обработчик
         {
-            Console.WriteLine("произошло событие 1" + S);
+            Console.WriteLine("произошло событие 1 " + S);
         }
         // методы обработчики событий
         static private void Handler2(string S)
         {
-            Console.WriteLine("произошло событие 2"+S);
+            Console.WriteLine("произошло событие 2 "+S);
         }
 
         static void Main(string[] args)
